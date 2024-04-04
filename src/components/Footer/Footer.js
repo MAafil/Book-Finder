@@ -3,7 +3,7 @@ import './Footer.css';
 function Footer() {
     return (
         <footer className="footer">
-            <div><a href="https://github.com/MAafil/bookfinder">Coded</a> by Mahammad Aafil </div>
+            <div><a href="https://github.com/MAafil/Book-Finder">Coded</a> by Mahammad Aafil </div>
         </footer>
     );
 }
