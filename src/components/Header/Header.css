@@ -1,0 +1,45 @@
+.header {
+    padding: 30px;
+    background-color: #80ced6;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoStack img {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logoStack img {
+    margin-bottom: 12.5px;
+    margin-top: 12.5px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    padding: 0px;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoStack img {
+    margin: 0px;
+    padding: 0px;
+}
+
+.logoStack img {
+    margin-bottom: 12.5px;
+    margin-top: 12.5px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    padding: 0px;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.2), 0 3px 20px 0 rgba(0, 0, 0, 0.19);
+}
