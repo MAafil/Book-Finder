@@ -23,10 +23,10 @@ To use this app, simply visit the deployed link [here](https://bookfinder-virid.
 To install the website on your local machine, you need to have Node.js and Git installed. 
 ```bash
 # 1. Clone this repository to your local machine using
-git clone https://github.com/marikamulder/bookfinder.git
+git clone https://github.com/MAafil/Book-Finder.git
 
 # 2. Navigate to the project folder
-cd bookfinder
+cd Book-Finder
 
 # 3. install the dependencies
 npm install
@@ -38,4 +38,4 @@ You can then access the site at [http://localhost:3000](http://localhost:3000).
 
 ## Credits
 
-This was created by Marika Mulder and Austin Gilfillan-Penhale.
+This was created by Mahammad Aafil
